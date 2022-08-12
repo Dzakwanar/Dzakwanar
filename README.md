@@ -8,3 +8,10 @@ Saya bertanggung jawab pada kualitas materi Web dengan dibekali [sertifikasi dar
 
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/dzakwan-ar-8216a2212/)ku ya.
+
+<p align="left">
+<a href="https://github.com/Dzakwanar">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gilangadhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gilangadhan&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
